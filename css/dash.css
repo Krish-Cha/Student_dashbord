@@ -1,0 +1,256 @@
+
+        body{
+            background-color: rgb(246,246,249);
+        }
+      .navigation {
+         float: right;
+         margin-left: 20%;
+         /* border: 1px solid; */
+      }
+      .navbar1{
+        /* border: 1px solid; */
+        width: 100%;
+      }
+     .navbar1 a{
+        margin-left: 5%;
+     }
+     .leftside{
+        height: 540px;
+        width: 20%;
+        /* border: 1px solid; */
+        float: left;
+     }
+     .rightside{
+        height: 540px;
+        width: 80%;
+        float:left;
+        /* border: 1px solid; */
+     }
+     .row1{
+        height: 120px;
+        width: 100%;
+        margin-top: 15px;
+        /* border: 1px solid; */
+     }
+     .L1{
+        border: 2px solid orange;
+        height: 120px;
+        float: left;
+        /* margin: 15px 0 0 2px; */
+        background-image: url("../image/krishna.jpg");
+        background-size: cover;
+        border-radius: 50%;
+        width: 120px;
+     }
+     .L2{
+        /* border: 1px solid; */
+        height: 60px;
+        margin-top: 30px;
+        padding-left: 10px;
+        width: 125px;
+        float: left;
+     }
+     .row2{
+        height: 50px;
+        width: 100%;
+        margin-top: 20px;
+        /* border: 1px solid; */
+     }
+     .row3{
+        height: 50px;
+        width: 100%;
+        margin-top: 10px;
+        /* border: 1px solid; */
+     }
+     .R1{
+        height: 540px;
+        width: 70%;
+        float: left;
+        /* border: 1px solid; */
+     }
+     .R2{
+        height: 540px;
+        width: 30%;
+        float: left;
+        /* border: 1px solid; */
+     }
+    .r2top{
+        height: 270px;
+        width: 100%;
+        /* border: 1px solid; */
+    }
+    .top{
+        /* border: 1px solid; */
+        box-shadow: 0 1px 3px rgb(0, 101, 253);
+        width: 90%;
+        border-radius: 20px;
+        margin-top: 15px;
+        margin-left: 15px;
+        height: 220px;
+    }
+    .topA{
+      /* border: 1px solid; */
+      width: 90%;
+      margin-top: 15px;
+      margin-left: 15px;
+      height: 220px;
+  }
+    .top1{
+        /* border: 1px solid; */
+        height: 65px;
+        width: 90%;
+        margin-left: 5%;
+        margin-top: 10px;
+    }
+    .top2{
+      /* border: 1px solid; */
+      box-shadow: 0 1px 3px rgb(0, 101, 253);
+      border-radius: 20px;
+      height: 70px;
+      width: 90%;
+      margin-left: 5%;
+      margin-top: 5px;
+  }
+    .downleft{
+        height: 60px;
+        width: 25%;
+        background-image: url("../image/tech.jpg");
+        background-size: cover;
+        border-radius: 50%;
+        margin-top: 5px;
+        margin-left: 5px;
+        border: 1px solid red;
+        float: left;
+    }
+    .downright{
+        height: 50px;
+        width: 70%;
+        margin-top: 8px;
+        /* border: 1px solid; */
+        float: left;
+    }
+    .R1top{
+      height: 340px;
+      width: 100%;
+      /* border: 1px solid; */
+    }
+    .R1down{
+      height: 200px;
+      width: 100%;
+      /* border: 1px solid; */
+    }
+    .Att-card{
+      height: 290px;
+      width: 19%;
+      float: left;
+      border-radius: 20px;
+      box-shadow: 0 1px 3px rgb(0, 101, 253);
+      margin-top: 10px;
+      margin-left:6px;
+      /* border: 1px solid; */
+    }
+    .sub-logo1{
+      height: 40px;
+      width: 40px;
+      margin-top: 5px;
+      background-image: url("../image/1.png");
+      background-size: cover;
+      margin-left: 5px;
+      border-radius: 50%;
+      /* border: 1px solid; */
+    }
+    .sub-logo2{
+      height: 40px;
+      width: 40px;
+      margin-top: 5px;
+      background-image: url("../image/2.png");
+      background-size: cover;
+      margin-left: 5px;
+      border-radius: 50%;
+      /* border: 1px solid; */
+    }
+    .sub-logo3{
+      height: 40px;
+      width: 40px;
+      margin-top: 5px;
+      background-image: url("../image/3.png");
+      background-size: cover;
+      margin-left: 5px;
+      border-radius: 50%;
+      /* border: 1px solid; */
+    }
+    .sub-logo4{
+      height: 40px;
+      width: 40px;
+      margin-top: 5px;
+      background-image: url("../image/4.png");
+      background-size: cover;
+      margin-left: 5px;
+      border-radius: 50%;
+      /* border: 1px solid; */
+    }
+    .sub-logo5{
+      height: 40px;
+      width: 40px;
+      margin-top: 5px;
+      background-image: url("../image/5.png");
+      background-size: cover;
+      margin-left: 5px;
+      border-radius: 50%;
+      /* border: 1px solid; */
+    }
+    .sub{
+      height: 50px;
+      width: 100%;
+      font-size: 16px;
+      color: black;
+      /* border: 1px solid; */
+      padding-left: 15px;
+    }
+    .record{
+      height:50px ;
+      width: 100%;
+      color: black;
+      font-size: 30px;
+      font-weight: bolder;
+      padding-left: 15px;
+      /* border: 1px solid; */
+    }
+    .graph{
+      height: 100px;
+      width: 100%;
+      /* border: 1px solid; */
+      background-repeat: no-repeat;
+    }
+   .date{
+      height: 30px;
+      width: 100%;
+      color: gray;
+      font-size: 16px;
+      /* border: 1px solid; */
+      padding-left: 20px;
+      padding-top: 5px;
+   }
+   .time-table{
+      height: 170px;
+      width: 98%;
+      margin-left: 1%;
+      margin-top: 5px;
+      border-radius: 20px;
+      box-shadow: 0 1px 3px rgb(0, 101, 253);
+      /* border: 1px solid red; */
+   }
+   .time-div{
+      height: 35px;
+      width: 98%;
+      margin-left: 1%;
+      border-bottom:1px solid gray;
+   }
+   .room
+   {
+      height:35px;
+      float: left;
+      width: 25%;
+      /* border: 1px solid; */
+   }
+  
